@@ -370,6 +370,7 @@ extern const AVFilter ff_vf_mix;
 extern const AVFilter ff_vf_monochrome;
 extern const AVFilter ff_vf_morpho;
 extern const AVFilter ff_vf_mpdecimate;
+extern const AVFilter ff_vf_reverse_mpdecimate;
 extern const AVFilter ff_vf_msad;
 extern const AVFilter ff_vf_multiply;
 extern const AVFilter ff_vf_negate;
