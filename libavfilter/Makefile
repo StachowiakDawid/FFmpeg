@@ -403,6 +403,7 @@ OBJS-$(CONFIG_MIX_FILTER)                    += vf_mix.o framesync.o
 OBJS-$(CONFIG_MONOCHROME_FILTER)             += vf_monochrome.o
 OBJS-$(CONFIG_MORPHO_FILTER)                 += vf_morpho.o framesync.o
 OBJS-$(CONFIG_MPDECIMATE_FILTER)             += vf_mpdecimate.o
+OBJS-$(CONFIG_REVERSE_MPDECIMATE_FILTER)     += vf_reverse_mpdecimate.o
 OBJS-$(CONFIG_MSAD_FILTER)                   += vf_identity.o framesync.o
 OBJS-$(CONFIG_MULTIPLY_FILTER)               += vf_multiply.o framesync.o
 OBJS-$(CONFIG_NEGATE_FILTER)                 += vf_negate.o

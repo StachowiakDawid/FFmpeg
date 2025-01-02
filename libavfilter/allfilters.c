@@ -377,6 +377,7 @@ extern const FFFilter ff_vf_mix;
 extern const FFFilter ff_vf_monochrome;
 extern const FFFilter ff_vf_morpho;
 extern const FFFilter ff_vf_mpdecimate;
+extern const FFFilter ff_vf_reverse_mpdecimate;
 extern const FFFilter ff_vf_msad;
 extern const FFFilter ff_vf_multiply;
 extern const FFFilter ff_vf_negate;
